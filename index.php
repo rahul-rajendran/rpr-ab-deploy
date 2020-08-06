@@ -1,4 +1,3 @@
  <?php 
- echo "I test pod . . . .";
- echo "My Pod IP is : ".$_SERVER['SERVER_ADDR'] ;
+ echo "The current pod IP is : ".$_SERVER['SERVER_ADDR'] ;
  ?>
